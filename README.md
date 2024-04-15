@@ -6,15 +6,15 @@ Bitcoin ne permet pas de créer des smart contracts. C'est une blockchain qui pe
 
 ## [Ethereum](https://ethereum.org/en/)
 
-Ethereum est une blockchain qui permet de créer des smart contracts. C'est une blockchain très utilisée pour les NFTs(non fungible tokens) et les DAOs(Decentralized autonomous organization).
+Ethereum est la blockchain la plus populaire qui permet de créer des smart contracts. C'est une blockchain très utilisée pour les NFTs(non fungible tokens) et les DAOs(Decentralized autonomous organization).
 
 ## [Solana](https://solana.com/fr)
 
-Solana est une blockchain qui permet de créer des smart contracts. C'est une blockchain beaucoup plus rapide et peu coûteuse. Mais elle est moins utilisée que Ethereum et moins sécurisée et moins stable.
+Solana est une blockchain montante qui permet de créer des smart contracts. C'est une blockchain beaucoup plus rapide qu'Ethereum et peu coûteuse. Mais elle est moins utilisée que Ethereum et moins sécurisée et moins stable.
 
 ## [Polygon](https://polygon.technology/)
 
-Polygon est une blockchain qui permet de créer des smart contracts. C'est une blockchain qui est une couche 2 d'Ethereum. Elle est beaucoup plus rapide et peu coûteuse que Ethereum. Elle aussi est moins sécurisée et moins stable que Ethereum.
+Polygon est aussi une blockchain qui permet de créer des smart contracts. C'est une blockchain qui est une couche 2 d'Ethereum. Elle est beaucoup plus rapide et moins coûteuse que Ethereum. Elle aussi est moins sécurisée et moins stable qu'Ethereum.
 
 ##
 

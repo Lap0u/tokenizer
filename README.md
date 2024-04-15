@@ -19,5 +19,7 @@ Polygon est une blockchain qui permet de créer des smart contracts. C'est une b
 ##
 
 J'ai donc choisi Ethereum pour créer mon smart contract car c'est la blockchain la plus utilisée et la plus stable. Elle utilise le langage [solidity](https://soliditylang.org/).
+
 [Remix](https://remix.ethereum.org/) sera utilisé pour le deploiement. C'est un IDE en ligne qui permet de créer, compiler et deployer des smart contracts en solidity.
+
 [Metamask](https://metamask.io/) est une extension de navigateur qui permet de se connecter à un wallet Ethereum et d'interagir avec des smart contracts. Elle est primoridale pour interagir avec la blockchain Ethereum.

@@ -16,4 +16,6 @@ Solana est une blockchain qui permet de créer des smart contracts. C'est une bl
 
 Polygon est une blockchain qui permet de créer des smart contracts. C'est une blockchain qui est une couche 2 d'Ethereum. Elle est beaucoup plus rapide et peu coûteuse que Ethereum. Elle aussi est moins sécurisée et moins stable que Ethereum.
 
-J'ai donc choisi Ethereum pour créer mon smart contract car c'est la blockchain la plus utilisée et la plus stable. Elle utilise le langage solidity. Remix est un IDE en ligne qui créer, compiler et deployer des smart contracts en solidity.
+J'ai donc choisi Ethereum pour créer mon smart contract car c'est la blockchain la plus utilisée et la plus stable. Elle utilise le langage solidity. Remix est un IDE en ligne qui permet de créer, compiler et deployer des smart contracts en solidity.
+
+https://metamask.io/ est une extension de navigateur qui permet de se connecter à un wallet Ethereum et d'interagir avec des smart contracts.

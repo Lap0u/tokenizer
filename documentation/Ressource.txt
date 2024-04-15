@@ -1,3 +1,9 @@
 https://www.youtube.com/watch?v=6uYRN6b5EMU - COMPRENDRE LA BLOCKCHAIN EN 7 MINUTES
 https://www.youtube.com/watch?v=EZTj6laRxqc - C'est quoi une blockchain ? Tout comprendre en 5 minutes !
 https://www.youtube.com/watch?v=_XC8P93Dc7k - LA BLOCKCHAIN EXPLIQUÉE SIMPLEMENT ! (Smart Contracts, Hash..etc)
+https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
+https://ethereum.org/en/smart-contracts/
+https://ethereum.org/en/nft/
+https://ethereum.org/en/developers/docs/standards/tokens/
+https://ethereum.org/en/developers/docs/smart-contracts/
+https://vitto.cc/how-to-create-and-deploy-an-erc20-token-in-20-minutes/

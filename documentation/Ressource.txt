@@ -10,3 +10,5 @@ https://ethereum.org/en/developers/docs/standards/tokens/
 https://ethereum.org/en/developers/docs/smart-contracts/
 https://docs.openzeppelin.com/contracts/4.x/erc20
 https://vitto.cc/how-to-create-and-deploy-an-erc20-token-in-20-minutes/
+https://www.bnbchain.org/en/testnet-faucet 
+https://testnet.bscscan.com/

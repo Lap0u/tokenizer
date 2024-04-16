@@ -45,7 +45,7 @@ contract TheAnswerCoin is ERC20Interface {
 
   constructor() public {
     symbol = "TAC";
-    name = "The Answer Coin";
+    name = "42 The Answer Coin";
     decimals = 18;
     //42 million and one tokens with 18 decimal places
     _totalSupply = 42000001000000000000000000;

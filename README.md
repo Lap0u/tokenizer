@@ -1,8 +1,8 @@
-Sur le marché, il existe 4 blockchains principales: Bitcoin, Ethereum, Solana et Polygon
+Sur le marché, il existe 3 blockchains principales: Bitcoin, Ethereum, Solana. Il existe aussi des blockchains plus secondaires comme Polygon.
 
 ## [Bitcoin](https://bitcoin.org/fr/)
 
-Bitcoin ne permet pas de créer des smart contracts. C'est une blockchain qui permet de faire des transactions de monnaie numérique.
+Bitcoin est une blockchain dont le seul role est de supporter le bitcoin. C'est une blockchain qui permet de faire des transactions de monnaie numérique mais pas de smart contracts.
 
 ## [Ethereum](https://ethereum.org/en/)
 
@@ -10,11 +10,11 @@ Ethereum est la blockchain la plus populaire qui permet de créer des smart cont
 
 ## [Solana](https://solana.com/fr)
 
-Solana est une blockchain montante qui permet de créer des smart contracts. C'est une blockchain beaucoup plus rapide qu'Ethereum et peu coûteuse. Mais elle est moins utilisée que Ethereum et moins sécurisée et moins stable.
+Solana est une blockchain montante qui permet de créer des smart contracts. C'est une blockchain beaucoup plus rapide qu'Ethereum et peu coûteuse. Mais elle est moins utilisée qu'Ethereum, moins sécurisée et moins stable.
 
 ## [Polygon](https://polygon.technology/)
 
-Polygon est aussi une blockchain qui permet de créer des smart contracts. C'est une blockchain qui est une couche 2 d'Ethereum. Elle est beaucoup plus rapide et moins coûteuse que Ethereum. Elle aussi est moins sécurisée et moins stable qu'Ethereum.
+Polygon est aussi une blockchain qui permet de créer des smart contracts. C'est une blockchain qui est un layer 2 d'Ethereum. Elle est beaucoup plus rapide et moins coûteuse que Ethereum. Elle aussi est moins sécurisée et moins stable qu'Ethereum.
 
 ##
 
